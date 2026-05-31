@@ -1,7 +1,11 @@
+
 # Bible-QA-RAG-Assistant
 RAG-based Christian AI Assistant using FAISS, Hugging Face Embeddings, TinyLlama, and Gradio.
 # BibleGuard AI
+## 🚀 Live Demo
 
+**Hugging Face Space:**  
+https://huggingface.co/spaces/Ravishankarsharma/Bible-QA-Assistant
 BibleGuard AI is a Retrieval-Augmented Generation (RAG) based Christian AI Assistant designed to provide scripture-grounded responses to Bible-related questions.
 
 The application combines FAISS vector search, Hugging Face embeddings, and the TinyLlama language model to retrieve relevant biblical passages and generate contextual responses.
